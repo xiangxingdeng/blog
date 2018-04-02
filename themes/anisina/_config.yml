@@ -28,10 +28,10 @@ permalink_defaults:
 
 # SNS settings
 # RSS:
-weibo_username: xiangxingdeng
-zhihu_username: 
-github_username: xiangxingdeng
-twitter_username: 
+weibo_username: haojen
+zhihu_username: megahertz
+github_username: haojen
+twitter_username: ehazon
 facebook_username:  
 linkedin_username:  
 
@@ -52,7 +52,7 @@ use_livere:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 43d15f2f92533ff7847208ca31e19074
+ba_track_id:
 # Google Analytics
 ga_track_id:             # Format: UA-xxxxxx-xx
 ga_domain:
